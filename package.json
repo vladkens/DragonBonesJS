@@ -1,0 +1,28 @@
+{
+  "name": "dragonbonesjs",
+  "version": "1.0.0",
+  "description": "* [DragonBones common library](./DragonBones/) * Highly suggest use [DragonBones Pro](http://dragonbones.github.io/) to create aniamtion.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonBones/DragonBonesJS.git"
+  },
+  "keywords": [
+    "pixi",
+    "dragonbones"
+  ],
+  "author": "dragonbones.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DragonBones/DragonBonesJS/issues"
+  },
+  "homepage": "https://github.com/DragonBones/DragonBonesJS#readme"
+}
